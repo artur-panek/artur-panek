@@ -2,6 +2,6 @@
 
 I build software, electronics and infrastructure. Usually the interesting part is where they meet.
 
-Engineering Technology — Electronics & ICT at KU Leuven.
+Current public work: [HA Blast Radius](https://github.com/artur-panek/ha-blast-radius) — dependency and impact analysis for Home Assistant.
 
 [artur.panek.tech](https://artur.panek.tech/) · [LinkedIn](https://www.linkedin.com/in/artur-panek-pl/) · [Sidelobe](https://sidelobe.dev/)
