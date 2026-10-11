@@ -15,6 +15,7 @@ RuntimeTruth and PowerContract are published under [Sidelobe](https://github.com
 
 ## Engineering notes
 
+- [Checking power-up timing against a datasheet](https://artur.panek.tech/notes/checking-power-up-timing/) — why comparing scope captures with electrical requirements still often means writing custom scripts.
 - [AI agent configuration at runtime](https://artur.panek.tech/notes/ai-agent-config-vs-runtime/) — how to check the settings Codex actually resolves, not just what a config file says.
 - [Debugging Linux policy routing](https://artur.panek.tech/notes/linux-routing-kernel-evidence/) — start with a kernel route lookup, then inspect the rules and tables behind it.
 - [Home Assistant dependencies and state changes](https://artur.panek.tech/notes/home-assistant-static-vs-runtime/) — why finding configuration references and tracing an event are separate jobs.
