@@ -1,11 +1,13 @@
 # Artur Panek
 
+[Personal website](https://artur.panek.tech/) · [About me](https://artur.panek.tech/about/)
+
 I build software, electronics and infrastructure. Usually the interesting part is where they meet.
 
 ## Public work
 
 - [RuntimeTruth](https://artur.panek.tech/work/runtimetruth/) — compares Codex runtime settings, permissions and instruction files with a reviewed baseline. It can also verify signed baselines. [Source](https://github.com/sidelobe-labs/runtimetruth) · [PyPI](https://pypi.org/project/runtimetruth/)
-- [PowerContract](https://github.com/sidelobe-labs/powercontract) — checks oscilloscope CSV captures against electrical limits and timing requirements written in YAML. [PyPI](https://pypi.org/project/powercontract/)
+- [PowerContract](https://artur.panek.tech/work/powercontract/) — checks oscilloscope CSV captures against electrical limits and timing requirements written in YAML. [Source](https://github.com/sidelobe-labs/powercontract) · [PyPI](https://pypi.org/project/powercontract/)
 - [HA Blast Radius](https://artur.panek.tech/work/ha-blast-radius/) — finds Home Assistant entity references before a rename or removal. [Source](https://github.com/artur-panek/ha-blast-radius)
 - [HA Forensic Lab](https://artur.panek.tech/work/ha-forensic-lab/) — records Home Assistant events and saves incident timelines for debugging. [Source](https://github.com/artur-panek/ha-forensic-lab)
 - [MailForensics](https://artur.panek.tech/work/mailforensics/) — traces outbound email through application logs, Postfix, filters and relays. [Source](https://github.com/artur-panek/mailforensics) · [PyPI](https://pypi.org/project/mailforensics/)
